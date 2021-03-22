@@ -1,1 +1,2 @@
-# c-37-hww
+# SAMPLE QUIZ GAME
+you have to store data in firebase database
